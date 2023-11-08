@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T01:04:51.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="EKWZrBWe1oKq39ceEqE-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T01:06:17.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0" etag="2PYPZnuX6Lu5nLuzbEQZ" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2620" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1696" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -161,7 +161,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZlOc1_NLlanQc9pzDve-118" value="(N,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wZlOc1_NLlanQc9pzDve-110">
+        <mxCell id="wZlOc1_NLlanQc9pzDve-118" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wZlOc1_NLlanQc9pzDve-110">
           <mxGeometry x="-0.9671" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
